@@ -1,5 +1,5 @@
 # Selamat datang di repositori Bactiar291! 🎉
-
+# utamakan "git pull" sebelum menjalankan
 ## Tentang Proyek Ini
 Proyek ini dibuat oleh Bactiar291 untuk tujuan memudahkan pengguna yang menggunakan Unichain. Proyek ini bertujuan untuk memudahkan pengguna dalam melaksanakan transaksi secara otomatis.
 
