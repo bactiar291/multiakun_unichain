@@ -2,6 +2,7 @@
 # utamakan "git pull" sebelum menjalankan
 ## Tentang Proyek Ini
 Proyek ini dibuat oleh Bactiar291 untuk tujuan memudahkan pengguna yang menggunakan Unichain. Proyek ini bertujuan untuk memudahkan pengguna dalam melaksanakan transaksi secara otomatis.
+![Gambar](https://raw.githubusercontent.com/bactiar291/multiakun_unichain/main/mult.png)
 
 Jika Anda meng-clone atau fork repositori ini, pastikan untuk membaca instruksi di bawah ini untuk memulai.
 
